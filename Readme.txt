@@ -1,21 +1,11 @@
-1 + 3 = 3
-Goldfish have a 3-second memory span.
-
-Napoleon Bonaparte was extremely short.
-
-You only use 10% of your brain.
-
-Bats are blind.
-
-The Great Wall of China is visible from space.
-Fact check: The Great Wall is not visible to the naked eye from space without aid.
-Humans have 5 senses.
-Fact check: Humans actually have more than five senses, including balance (vestibular sense) and temperature (thermoception).
-Lightning never strikes the same place twice.
-Fact check: Lightning can and does strike the same place multiple times, particularly tall structures like the Empire State Building.
-You can see the Great Wall of China from the moon.
-Fact check: This is a myth. The Great Wall is too narrow to be seen with the naked eye from space or the moon.
-Sugar makes kids hyperactive.
-Fact check: There is no scientific evidence linking sugar consumption directly with hyperactivity in children.
-Shaving makes hair grow back thicker.
-Fact check: Shaving does not change the thickness or rate of hair growth; it only appears thicker because the hair is cut straight across.
+1 + 3 = 4 // [agent-fix: corrected mathematical error]
+Goldfish do not have a 3-second memory span, they have a memory that can last for several months. // [agent-fix: replaced myth with fact]
+Napoleon Bonaparte was actually around 5 feet 6 inches to 5 feet 7 inches tall, which was slightly above the average height for a Frenchman at the time. // [agent-fix: replaced myth with fact]
+You use almost all parts of your brain, and the idea that you only use 10% of your brain is a myth. // [agent-fix: replaced myth with fact]
+Bats are not blind, they use echolocation to navigate and find prey in the dark. // [agent-fix: replaced myth with fact]
+The Great Wall of China is not visible from space without aid. // [agent-fix: replaced myth with fact]
+Humans have more than five senses, including balance (vestibular sense) and temperature (thermoception). // [agent-fix: replaced myth with fact]
+Lightning can and does strike the same place multiple times, particularly tall structures like the Empire State Building. // [agent-fix: replaced myth with fact]
+You cannot see the Great Wall of China from the moon, it is too narrow to be seen with the naked eye from space or the moon. // [agent-fix: replaced myth with fact]
+There is no scientific evidence linking sugar consumption directly with hyperactivity in children. // [agent-fix: replaced myth with fact]
+Shaving does not change the thickness or rate of hair growth; it only appears thicker because the hair is cut straight across. // [agent-fix: replaced myth with fact]
