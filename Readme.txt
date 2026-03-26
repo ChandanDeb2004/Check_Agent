@@ -1,1 +1,1 @@
-1 + 3 = 3
+1 + 3 = 4 // [agent-fix: corrected calculation error in SCRUM-40]
